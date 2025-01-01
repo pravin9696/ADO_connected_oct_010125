@@ -9,9 +9,9 @@ namespace ADO_connected_oct_010125
 {
     class DBOperations
     {
-        public void deleteEmployee_vishal()
+        public void deleteEmployee_Pravin()
         {
-
+           //thi is my code 
         }
         public void updateEmployee()
         {
