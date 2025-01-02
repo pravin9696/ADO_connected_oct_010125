@@ -9,6 +9,10 @@ namespace ADO_connected_oct_010125
 {
     class DBOperations
     {
+         public void deleteEmployee_By_Vishal()
+ {
+     //this method created by Vishal 
+ }
         public void deleteEmployee_Pravin()
         {
            //thi is my code 
