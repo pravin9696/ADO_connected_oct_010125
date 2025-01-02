@@ -11,7 +11,7 @@ namespace ADO_connected_oct_010125
 {
     class DBOperations
     {
-        public void Read_all()
+        public void deleteEmployee_Pravin()
         {
             //step1
             SqlConnection con = new SqlConnection();
